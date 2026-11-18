@@ -1,0 +1,16 @@
+{
+  "sample": 39,
+  "series": "verified-account-collaboration-20261118",
+  "upstream": "phishdestroy/achievement-sandbox",
+  "contributor": "tugascrown204",
+  "coauthor": "phishdestroy",
+  "source": "contributor fork",
+  "merge_method": "merge",
+  "checks": [
+    "contributor has a verified primary email",
+    "main coauthor email is verified",
+    "original commit resolves both intended accounts",
+    "regular merge preserves the original commit"
+  ],
+  "note": "Controlled GitHub collaboration sample; achievement eligibility is not inferred from this record."
+}
